@@ -1,0 +1,10 @@
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.csproj.AssemblyReference.cache
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.Form1.resources
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.Properties.Resources.resources
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.csproj.GenerateResource.cache
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.csproj.CoreCompileInputs.cache
+C:\univer\3rd year\СПО\lab2a\lab2a\bin\Debug\lab2a.exe.config
+C:\univer\3rd year\СПО\lab2a\lab2a\bin\Debug\lab2a.exe
+C:\univer\3rd year\СПО\lab2a\lab2a\bin\Debug\lab2a.pdb
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.exe
+C:\univer\3rd year\СПО\lab2a\lab2a\obj\Debug\lab2a.pdb
